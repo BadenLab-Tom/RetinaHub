@@ -7,7 +7,7 @@ main:
   - name: News
     url: post
     weight: 20
-  - name: Pople
+  - name: People
     url: people
     weight: 30
   - name: Events
