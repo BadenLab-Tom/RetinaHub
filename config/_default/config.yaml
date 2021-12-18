@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Retina Hub 0.9 # Website name
+title: Retina Hub 0.1 # Website name
 baseurl: '' # Website URL
 copyright: 'CCBY 4.0 {year}' # Footer text, e.g. '© {year} Me'
 
