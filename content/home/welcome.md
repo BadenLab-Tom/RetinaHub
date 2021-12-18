@@ -1,17 +1,22 @@
 ---
 widget: hero
-widget_id: "      "
+widget_id: "welcome page"
 headless: true
 weight: 10
 title: Retina Hub
 subtitle: A user driven repository for papers in the retina field
 active: true
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: null
   background:
     image: ""
-hero_media: welcome.jpg
+hero_media: "retina_fluorescent.jpg"
 ---
+A user driven repository for papers in the retina field
 <br>
+<br>
+<br>
+{{% cta cta_link="#" cta_text="Submit a paper" %}}
+
