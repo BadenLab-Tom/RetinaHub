@@ -3,6 +3,7 @@ title: Retina Hub is live!
 date: 2021-12-18
 #image:
 #  focal_point: "top"
+authors: ""
 ---
 
 The first iteration of Retina Hub is live and ready to receive entries!
