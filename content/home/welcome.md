@@ -18,5 +18,5 @@ A user driven repository for papers in the retina field
 <br>
 <br>
 <br>
-{{% cta cta_link="#" cta_text="Submit a paper" %}}
+{{% cta cta_link="[#](https://forms.gle/yqdzLVN5b6n5TtBw5)" cta_text="Submit a paper" %}}
 
