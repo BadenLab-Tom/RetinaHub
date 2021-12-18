@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: "  "
+widget_id: "      "
 headless: true
 weight: 10
 title: Retina Hub
@@ -11,7 +11,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: retina_micrograph.jpg
+    image: ""
 hero_media: welcome.jpg
 ---
 <br>
