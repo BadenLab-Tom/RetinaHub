@@ -3,6 +3,7 @@ title: Publications
 view: 4
 
 header:
-  caption: ""
+  caption: "Papers"
   image: ""
 ---
+

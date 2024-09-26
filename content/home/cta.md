@@ -1,11 +1,13 @@
 ---
-title:
+title: 
 subtitle:
+# Activate this widget? true/false
+active: false
 widget: blank
 headless: true
-weight: 40
+weight: 20
 design:
-  columns: '1'
+  columns: '2'
 ---
 
-{{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+{{% cta cta_link="#" cta_text="Submit a paper" %}}
